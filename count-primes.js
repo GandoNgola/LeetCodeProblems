@@ -16,11 +16,13 @@ const countPrimes = n => {
   arr[1] = false;
 
   // Now we'll iterate through the array setting the non-prime to false.
-  // If n is not prime, it'll always have a factor that is < or = to its sqrt.
-  // Example: Number 36. Its factors are 1*36, 2*18, 3*12, 4*9 and finally 6*6.
+  // But we dont't need to iterate all the n times, only Math.sqrt(n) times.
+  // Let's take number 36 as n. Its factors are 1*36, 2*18, 3*12, 4*9 and finally 6*6.
   // Each case of 36 factors always contains one number < or = its sqrt.
   // This way we only need to iterate until i*i < n (taking n as 36, only until 
-  // 5*5 since we don't need the n itself, only the count of primes until n).
+  // 5*5 since we don't need the n itself, only the count of primes until n). After 
+  // that we would be only repeating ourselves (in the 36 example, after 6*6 the factors 
+  // are 9*4, 12*3, and so on, which is just useless).
   for (let i = 2; i*i < n; i++) {
     if (arr[i]) {
       // The inner loop will iterate over the multiples of i (2 to start with) and set them to false.
