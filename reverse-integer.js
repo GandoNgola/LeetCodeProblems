@@ -24,7 +24,8 @@ const reverse = x => {
   let arr = ('' + Math.abs(x)).split('');
   let rev = Number(arr.reverse().join(''));
 
-  if (rev > Math.pow(2, 31)) { //A 32-bit integer is 2^31, since the first bit is the sign
+  //The upper bound of a signed integer is 2^31 - 1, since the first bit is the sign bit.
+  if (rev > Math.pow(2, 31)-1) {
     return 0;
   }
 
