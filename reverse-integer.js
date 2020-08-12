@@ -24,7 +24,7 @@ const reverse = x => {
   let arr = ('' + Math.abs(x)).split('');
   let rev = Number(arr.reverse().join(''));
 
-  if (rev > Math.pow(2, 31)) {
+  if (rev > Math.pow(2, 31)) { //A 32-bit integer is 2^31, since the first bit is the sign
     return 0;
   }
 
