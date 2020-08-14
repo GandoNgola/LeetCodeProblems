@@ -23,13 +23,7 @@ const majorityElement = nums => {
 
   let obj = {};
 
-  nums.forEach(num => {
-    if (num in obj) {
-      obj[num]++;
-    } else {
-      obj[num] = 1;
-    }
-  });
+  nums.forEach(num => num in obj ? obj[num]++ : obj[num] = 1);
 
   return Object.keys(obj).reduce((a, b) => obj[a] > obj[b] ? a : b);
 }
