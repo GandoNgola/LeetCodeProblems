@@ -8,3 +8,4 @@ A series of LeetCode problems' solutions.
 - Single Number: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/single-number.js)
 - Reverse Linked List: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/reverse-linked-list.js)
 - Fizz Buzz: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/fizz-buzz.js)
+- Majority Element: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/majority-element.js)
