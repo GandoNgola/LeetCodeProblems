@@ -17,10 +17,6 @@
 
 //Runtime 76ms, better than 83.89% of solutions. Big O notation is of O(n);
 const majorityElement = nums => {
-  if (nums.length <= 1) {
-    return nums;
-  }
-
   let obj = {};
 
   nums.forEach(num => num in obj ? obj[num]++ : obj[num] = 1);
