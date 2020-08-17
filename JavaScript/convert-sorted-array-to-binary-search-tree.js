@@ -32,7 +32,7 @@ const sortedArrayToBST = nums => {
   // Base case
   if (!len) return null;
 
-  // Recursive call it until it hits the base cases, setting left nodes
+  // Recursive call it setting left nodes until it hits the base case, 
   // since all nums from index 0 to mid are left nodes
   let left = nums.slice(0, mid);
   node.left = sortedArrayToBST(left);
