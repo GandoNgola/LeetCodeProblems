@@ -30,7 +30,7 @@ const sortedArrayToBST = nums => {
   let node = new TreeNode(nums[mid]);
 
   // Base case
-  if (!nums.length) return null;
+  if (!len) return null;
 
   // Recursive call it until it hits the base cases, setting left nodes
   // since all nums from index 0 to mid are left nodes
