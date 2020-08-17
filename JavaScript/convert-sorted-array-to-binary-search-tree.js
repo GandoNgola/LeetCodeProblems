@@ -25,7 +25,7 @@
 
 const sortedArrayToBST = nums => {
   let len = nums.length;
-  // Find the root node, which is in the middle of the array
+  // Find the root node, which is always in the middle of a sorted array
   let mid = Math.floor(len/2);
   let node = new TreeNode(nums[mid]);
 
