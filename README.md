@@ -9,3 +9,4 @@ A series of LeetCode problems' solutions.
 - Reverse Linked List: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/reverse-linked-list.js)
 - Fizz Buzz: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/fizz-buzz.js)
 - Majority Element: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/majority-element.js)
+- Convert Sorted Array to Binary Search Tree: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/convert-sorted-array-to-binary-search-tree.js)
