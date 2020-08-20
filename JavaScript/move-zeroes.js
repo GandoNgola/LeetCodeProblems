@@ -11,9 +11,7 @@
 
 const moveZeroes = nums => {
   nums.forEach(num => {
-    if (num === 0) {
-      nums.push(nums.splice(nums.indexOf(num), 1)[0]);
-    }
+    if (num === 0) nums.push(nums.splice(nums.indexOf(num), 1)[0]);
   });
   return nums;
 }
