@@ -11,3 +11,4 @@ A series of LeetCode problems' solutions.
 - Majority Element: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/majority-element.js)
 - Convert Sorted Array to Binary Search Tree: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/convert-sorted-array-to-binary-search-tree.js)
 - Move Zeroes: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/move-zeroes.js)
+- Valid Anagram: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/valid-anagram.js)
