@@ -23,7 +23,7 @@ const whatIsInAName = (collection, source) => {
   const srcKeys = Object.keys(source);
 
   // filter the collection
-  return collection.filter(function(obj) {
+  return collection.filter(obj => {
     for (var i = 0; i < srcKeys.length; i++) {
       if (!obj.hasOwnProperty(srcKeys[i]) || obj[srcKeys[i]] !== source[srcKeys[i]]) {
         return false;
