@@ -14,3 +14,4 @@ A series of LeetCode problems' solutions.
 - Valid Anagram: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/valid-anagram.js)
 - Excel Sheet Column Number: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/excel-sheet-column-number.js)
 - Diff Two Arrays: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/diff-two-arrays.js)
+- Seek and Destroy: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/seek-and-destroy.js)
