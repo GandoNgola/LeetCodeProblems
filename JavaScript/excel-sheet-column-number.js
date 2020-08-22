@@ -30,11 +30,11 @@
 // s is between "A" and "FXSHRXW".
 
 const titleToNumber = s => {
-  let len = s.length;
+  const len = s.length;
   // Create an array, reverse it (since in "AAA" for example, the last A is 
   // 26^0, then the second last 26^1, and the first 26^2). Then use 
   // map() instead of forEach() since it's faster, and turn letters into numbers.
-  let arr = [...s].reverse().map(letter => letter.charCodeAt() - 64);
+  const arr = [...s].reverse().map(letter => letter.charCodeAt() - 64);
   let res = 0;
 
   for (let i = 0; i < len; i++) {
