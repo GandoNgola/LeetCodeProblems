@@ -17,9 +17,6 @@
 // should return []
 
 const whatIsInAName = (collection, source) => {
-  // "What's in a name? that which we call a rose
-  // By any other name would smell as sweet.”
-  // -- by William Shakespeare, Romeo and Juliet
   const srcKeys = Object.keys(source);
 
   // filter the collection
