@@ -17,3 +17,4 @@ A series of LeetCode problems' solutions.
 - Seek and Destroy: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/seek-and-destroy.js)
 - Wherefore Art Thou: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/wherefore-art-thou.js)
 - Pig Latin: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/pig-latin.js)
+- Search and Replace: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/search-and-replace.js)
