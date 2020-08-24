@@ -16,3 +16,4 @@ A series of LeetCode problems' solutions.
 - Diff Two Arrays: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/diff-two-arrays.js)
 - Seek and Destroy: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/seek-and-destroy.js)
 - Wherefore Art Thou: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/wherefore-art-thou.js)
+- Pig Latin: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/pig-latin.js)
