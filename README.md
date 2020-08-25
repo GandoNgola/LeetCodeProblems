@@ -19,3 +19,4 @@ A series of LeetCode problems' solutions.
 - Pig Latin: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/pig-latin.js)
 - Search and Replace: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/search-and-replace.js)
 - DNA Pairing: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/dna-pairing.js)
+- Missing Letters: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/missing-letters.js)
