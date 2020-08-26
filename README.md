@@ -20,3 +20,4 @@ A series of LeetCode problems' solutions.
 - Search and Replace: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/search-and-replace.js)
 - DNA Pairing: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/dna-pairing.js)
 - Missing Letters: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/missing-letters.js)
+- Contains Duplicate: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/contains-duplicate.js)
