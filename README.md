@@ -21,3 +21,4 @@ A series of LeetCode problems' solutions.
 - DNA Pairing: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/dna-pairing.js)
 - Missing Letters: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/missing-letters.js)
 - Contains Duplicate: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/contains-duplicate.js)
+- Roman to Integer: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/roman-to-integer.js)
