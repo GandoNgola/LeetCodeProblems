@@ -23,3 +23,4 @@ A series of LeetCode problems' solutions.
 - Contains Duplicate: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/contains-duplicate.js)
 - Roman to Integer: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/roman-to-integer.js)
 - Merge Two Sorted Lists: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/merge-two-sorted-lists.js)
+- First Unique Character in a String: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/first-unique-character-in-a-string.js)
