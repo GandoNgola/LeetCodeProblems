@@ -22,4 +22,4 @@ A series of LeetCode problems' solutions.
 - Missing Letters: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/missing-letters.js)
 - Contains Duplicate: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/contains-duplicate.js)
 - Roman to Integer: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/roman-to-integer.js)
-- Roman to Integer: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/merge-two-sorted-lists.js)
+- Merge Two Sorted Lists: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/merge-two-sorted-lists.js)
