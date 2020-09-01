@@ -26,3 +26,4 @@ A series of LeetCode problems' solutions.
 - First Unique Character in a String: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/first-unique-character-in-a-string.js)
 - Pascal's Triangle: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/pascals-triangle.js)
 - Permutations: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/permutations.js)
+- Intersection of Two Arrays II: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/intersection-of-two-arrays-II.js)
