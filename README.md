@@ -27,3 +27,4 @@ A series of LeetCode problems' solutions.
 - Pascal's Triangle: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/pascals-triangle.js)
 - Permutations: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/permutations.js)
 - Intersection of Two Arrays II: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/intersection-of-two-arrays-II.js)
+- Best Time to Buy and Sell Stock: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/best-time-to-buy-and-sell-stock.js)
