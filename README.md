@@ -29,3 +29,4 @@ A series of LeetCode problems' solutions.
 - Intersection of Two Arrays II: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/intersection-of-two-arrays-II.js)
 - Best Time to Buy and Sell Stock: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/best-time-to-buy-and-sell-stock.js)
 - Best Time to Buy and Sell Stock II: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/best-time-to-buy-and-sell-stock-ii.js)
+- Happy Number: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/happy-number.js)
