@@ -30,4 +30,5 @@ A series of LeetCode problems' solutions.
 - Best Time to Buy and Sell Stock: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/best-time-to-buy-and-sell-stock.js)
 - Best Time to Buy and Sell Stock II: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/best-time-to-buy-and-sell-stock-ii.js)
 - Happy Number: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/happy-number.js)
-- Number of 1 Bits : [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/number-of-1-bits.js)
+- Number of 1 Bits: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/number-of-1-bits.js)
+- Climbing Stairs: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/climbing-stairs.js)
