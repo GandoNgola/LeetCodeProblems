@@ -32,3 +32,4 @@ A series of LeetCode problems' solutions.
 - Happy Number: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/happy-number.js)
 - Number of 1 Bits: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/number-of-1-bits.js)
 - Climbing Stairs: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/climbing-stairs.js)
+- Symmetric Tree: [Solution](https://github.com/guvarallo/LeetCodeProblems/blob/master/JavaScript/symmetric-tree.js)
